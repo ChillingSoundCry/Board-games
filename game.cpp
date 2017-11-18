@@ -1,6 +1,7 @@
 # Board-games
 //The following remarks are in Chinese, because they are not bothered to change
 //The image library used is graphics.h
+//The material hasn't been uploaded yet, and there will be time to upload it
 #define SHOW_CONSOLE
 #include"graphics.h"
 #include <time.h>
